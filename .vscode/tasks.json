@@ -8,9 +8,9 @@
       "problemMatcher": []
     },
     {
-      "label": "kalle",
+      "label": "Goto GitHub",
       "type": "shell",
-      "command": "make kalle",
+      "command": "make goto-github",
       "problemMatcher": []
     },
     {
