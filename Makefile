@@ -3,7 +3,7 @@
 
 commit:
 	git add .
-	git commit -m "Auto commit"
+	git commit -m "$(or $(m),Auto-commit: $(shell date))"
 	git push
 
 kalle:
