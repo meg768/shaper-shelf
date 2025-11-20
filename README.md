@@ -25,3 +25,4 @@ Place the stoppers along the rim of the board to create your coordinate system.
 The underdog has a nut insert that lets you use the original Shaper Origin clamps.
 
 <img src="./images/image-20251120232135351.png" alt="image-20251120232135351" style="zoom:25%;" />
+
