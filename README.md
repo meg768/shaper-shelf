@@ -16,7 +16,7 @@ Nothing really special. It is a 420x300 mm MDF with hole pattern matching the Fe
 
 ### The Stopper
 
-Place the stopper along the rim of the board to create your coordinate system.
+Place the stoppers along the rim of the board to create your coordinate system.
 
 <img src="./images/image-20251120225618020.png" alt="image-20251120225618020" style="zoom: 25%;" />
 
