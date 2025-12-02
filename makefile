@@ -4,5 +4,5 @@ git-commit:
 	git push
 
 goto-github:
-	open "https://github.com/meg768/shaper-origin-shelf"
+	open "https://github.com/meg768/shaper-shelf"
 
